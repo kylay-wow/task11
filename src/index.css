@@ -145,3 +145,8 @@ code {
 .student-name{
   margin: 0;
 }
+
+.profile-card:hover {
+            transform: translateY(-5px);
+            border-color: #91a8ff;
+        }
